@@ -15,6 +15,7 @@ In order to create this application it required using express and its routing me
 - [License](#license)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Deployment](#deployment)
 
 ## Installation
 
@@ -35,6 +36,9 @@ This application is covered under the following license: MIT License
 ## Tests
 
 there are no test for this application
+
+## Deployment
+Find the deployed app here: https://mighty-waters-18695.herokuapp.com/
 
 ## Questions
 If you have questions about this application you can reach me for more information here - 
