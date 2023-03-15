@@ -1,11 +1,7 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "Homework",
-        "text": "Do your homework\n",
-        "id": "3b0b531c-596f-48db-8973-efe5ca0386ec"
+        "title": "Grocery List",
+        "text": "Milk, eggs, bread, beer",
+        "id": "4e032970-adba-4ec7-9228-fe19b94e0bb2"
     }
 ]
